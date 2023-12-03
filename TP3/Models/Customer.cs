@@ -14,8 +14,5 @@ namespace TP3.Models
         public virtual Membershiptype? Membershiptypes { get; set; }
         public List<Movie>? Movies { get; set; }
 
-
-
-
     }
 }
